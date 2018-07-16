@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Playfair Display;
+    src: url(fonts\Playfair_Display\PlayfairDisplay-Regular.ttf);
+}
+
+
 body {
     margin: 0;
 }
